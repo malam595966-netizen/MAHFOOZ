@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.env.local
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Local database (when running SQLite fallback)
+*.db
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
